@@ -2,4 +2,4 @@
 
 50_startups
 
-Toyota_corrola
+Toyota_corolla
